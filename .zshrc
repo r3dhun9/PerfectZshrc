@@ -79,9 +79,6 @@ source $ZSH/oh-my-zsh.sh
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
-# Android adb path
-export PATH=${PATH}:/Users/Redhung/Library/Android/sdk/platform-tools
-
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
 
@@ -106,5 +103,3 @@ export PATH=${PATH}:/Users/Redhung/Library/Android/sdk/platform-tools
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-
-alias vim='mvim -v'
